@@ -26,8 +26,4 @@ Clone this repository using Git:
 ```bash
 git clone https://github.com/yourusername/reactjs-project-management-app.git
 Or download the ZIP file and extract it.
-### 2.**cd ReactJS-Project-Management-App**
 
-###3 run command **npm install **
-
-###4. Start the App by running command **npm start**
