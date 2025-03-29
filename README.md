@@ -41,3 +41,7 @@ This will launch the development server, and the app will open in your browser
 
 ## Screenshots
 Below are some screenshots of the app in action:
+![Screenshot 1](src/assets/addProject.jpg)
+![Screenshot 2](src/assets/NoProject.jpg)
+![Screenshot 3](src/assets/Tasks.jpg)
+![Screenshot 4](src/assets/validation.jpg)
