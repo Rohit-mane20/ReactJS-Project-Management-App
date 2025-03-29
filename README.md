@@ -23,7 +23,21 @@ To run this project locally, follow these steps:
 
 Clone this repository using Git:
 
-```bash
 git clone https://github.com/yourusername/reactjs-project-management-app.git
 Or download the ZIP file and extract it.
 
+##  Navigate to the Project Folder
+cd ReactJS-Project-Management-App
+
+## 3. Install Dependencies
+Run the following command to install the required dependencies:
+npm install
+
+## 4. Start the App
+Once the dependencies are installed, you can start the app by running:
+npm start
+This will launch the development server, and the app will open in your browser
+
+
+## Screenshots
+Below are some screenshots of the app in action:
