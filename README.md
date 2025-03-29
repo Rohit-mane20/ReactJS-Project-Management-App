@@ -6,12 +6,12 @@ A project management app built using ReactJS, designed to manage projects and ta
 - **Add/Delete Projects**: Users can create and remove projects in the application.
 - **Add/Delete Tasks**: Users can manage tasks within each project, adding and removing them as needed.
 - **State Management**: Utilizes React's state for managing data across different components.
-- **Styling**: The app is styled using CSS to ensure an attractive and user-friendly interface.
+- **Styling**: The app is styled using TailWind CSS to ensure an attractive and user-friendly interface.
 - **Refs and Portals**: Uses React refs and portals for handling certain UI interactions and modal dialogs.
 
 ## Tech Stack
 - ReactJS
-- CSS for styling
+- TailWind CSS for styling
 - React Refs
 - React Portals
 
